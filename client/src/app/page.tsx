@@ -1,9 +1,7 @@
-import { Button } from "@nextui-org/button";
-
 export default function Home() {
 	return (
 		<main>
-			<Button>Hello</Button>
+			<h1>Hello World</h1>
 		</main>
 	);
 }
